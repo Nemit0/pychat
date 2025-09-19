@@ -1,0 +1,3 @@
+briefcase
+PyQT6
+cryptography

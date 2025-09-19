@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.25
+Name: pychat
+Formal-Name: pychat
+App-ID: com.example.pychat
+Version: 0.0.1
+Home-page: https://example.com/pychat
+Download-URL: https://example.com/pychat
+Author: Nemit Yu
+Author-email: aspalt8@gmail.com
+Summary: My first application
